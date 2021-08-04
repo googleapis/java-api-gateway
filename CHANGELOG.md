@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/googleapis/java-api-gateway/compare/v1.1.2...v1.2.0) (2021-08-04)
+
+
+### Features
+
+* configure initial sp version ([#98](https://www.github.com/googleapis/java-api-gateway/issues/98)) ([8fe567b](https://www.github.com/googleapis/java-api-gateway/commit/8fe567b66a4c5a9f97dd2325a379bb23925d087d))
+
 ### [1.1.2](https://www.github.com/googleapis/java-api-gateway/compare/v1.1.1...v1.1.2) (2021-07-02)
 
 
