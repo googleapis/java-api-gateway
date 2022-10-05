@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.7](https://github.com/googleapis/java-api-gateway/compare/v2.3.6...v2.3.7) (2022-10-04)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([5e458d2](https://github.com/googleapis/java-api-gateway/commit/5e458d2f3e4b73bede4d8c02fcc358476315c2a1))
+
 ## [2.3.6](https://github.com/googleapis/java-api-gateway/compare/v2.3.5...v2.3.6) (2022-10-03)
 
 
